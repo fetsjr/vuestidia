@@ -54,13 +54,15 @@
                 <div class="row sm-gutters">
                   <div class="col-6">
                     <a class="btn btn-block btn-social btn-facebook">
-                      <span class="fab fa-facebook"></span> Facebook
+                      <font-awesome-icon icon="fa-brands fa-facebook-square" />
+                      Facebook
                     </a>
                   </div>
                   <div class="col-6">
                     <a class="btn btn-block btn-social btn-twitter">
-                      //TODO: configure this font with vue fontawesome
-                      <span class="fab fa-twitter"></span> Twitter
+                      <!-- TODO: configure this font with vue fontawesome -->
+                      <font-awesome-icon icon="fa-brands fa-twitter" />
+                       Twitter
                     </a>
                   </div>
                 </div>
